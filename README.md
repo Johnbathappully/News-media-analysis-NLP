@@ -18,4 +18,4 @@
 
 # bigrams/trigrams and frequent words in corpus
 
-![bigram](https://user-images.githubusercontent.com/114779060/218226049-dcfaa381-a4e8-45de-8a78-03bc87a87c93.jpg)
+![bigram](https://user-images.githubusercontent.com/114779060/218226471-9aa36c03-174e-405f-a182-842ca78d3e68.jpg)
