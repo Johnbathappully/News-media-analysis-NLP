@@ -40,6 +40,10 @@
 
 ![cipher](https://user-images.githubusercontent.com/114779060/218227366-5fc783c7-3dfb-47f4-ba47-404ac8b60566.jpg)
 
+# Text summarizer
+
+![sum](https://user-images.githubusercontent.com/114779060/218227448-00c95683-cc49-4d27-96c8-e500b7249e44.jpg)
+
 
 
 
