@@ -31,3 +31,9 @@
 # part of speech tagging and named entity recognition
 
 ![imgonline-com-ua-twotoone-c1jcIG4BuO](https://user-images.githubusercontent.com/114779060/218227096-4f1cfbef-9d4a-429b-ba2c-a93716485470.jpg)
+
+# language modelling and article spinnig
+
+#![image (1)](https://user-images.githubusercontent.com/114779060/218227253-539ca700-e567-4b65-aeff-2b9a0b5fa015.png)
+
+
