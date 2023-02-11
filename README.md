@@ -27,3 +27,7 @@
 # topic modelling
 
 ![topic modelling](https://user-images.githubusercontent.com/114779060/218226929-e8a86c75-7d39-492b-b8c8-fc8e7b350de8.jpg)
+
+# part of speech tagging and named entity recognition
+
+![imgonline-com-ua-twotoone-c1jcIG4BuO](https://user-images.githubusercontent.com/114779060/218227096-4f1cfbef-9d4a-429b-ba2c-a93716485470.jpg)
