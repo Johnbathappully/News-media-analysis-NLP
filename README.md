@@ -17,3 +17,5 @@
 ![imgonline-com-ua-twotoone-gSQqcG8WFajy](https://user-images.githubusercontent.com/114779060/218225467-a8634166-a785-42f5-af57-8786dd481bd5.jpg)
 
 # bigrams/trigrams and frequent words in corpus
+
+![bigram](https://user-images.githubusercontent.com/114779060/218226049-dcfaa381-a4e8-45de-8a78-03bc87a87c93.jpg)
