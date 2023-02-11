@@ -15,3 +15,5 @@
 # Seniments analysis on news articles and outlets
 
 ![imgonline-com-ua-twotoone-gSQqcG8WFajy](https://user-images.githubusercontent.com/114779060/218225467-a8634166-a785-42f5-af57-8786dd481bd5.jpg)
+
+# bigrams/trigrams and frequent words in corpus
